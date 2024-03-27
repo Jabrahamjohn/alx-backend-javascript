@@ -37,6 +37,8 @@ export interface StudentConstructor {
 }
 
 export interface StudentClassInterface {
+    firstName: string;
+    lastName: string;
     workOnHomework(): string;
     displayName(): string;
 }
