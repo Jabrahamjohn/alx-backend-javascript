@@ -22,4 +22,8 @@ class StudentClass {
         this.firstName = firstName;
         this.lastName = lastName;
     }
+
+    workOnHomework() {
+        return 'Currently working';
+    }
 }
