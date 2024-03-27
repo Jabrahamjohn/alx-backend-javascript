@@ -57,3 +57,11 @@ export function executeWork(employee: DirectorInterface | TeacherInterface) {
         return employee.workTeacherTasks();
     }
 }
+
+export function teachClass(todayClass: 'math' | 'History'): string{
+    if (todayClass === 'math') {
+        return 'Teaching Math';
+    } else if (todayClass === 'History'){
+        return 'Teaching History';
+    }
+}
