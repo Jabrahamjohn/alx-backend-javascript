@@ -4,3 +4,9 @@ export interface DirectorInterface {
     workDirectorTasks(): string;
 }
 
+export interface TeacherInterface {
+    workFromHome(): string;
+    getCoffeeBreak(): string;
+    workTeacherTasks(): string;
+}
+
