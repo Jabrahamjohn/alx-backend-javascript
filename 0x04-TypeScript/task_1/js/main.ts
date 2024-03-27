@@ -35,3 +35,8 @@ class StudentClass {
 export interface StudentConstructor {
     new(firstName: string, lastName: string): StudentClass;
 }
+
+export interface StudentClassInterface {
+    workOnHomework(): string;
+    displayName(): string;
+}
