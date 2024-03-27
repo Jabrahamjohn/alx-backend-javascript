@@ -31,3 +31,7 @@ class StudentClass {
         return this.firstName;
     }
 }
+
+export interface StudentConstructor {
+    new(firstName: string, lastName: string): StudentClass;
+}
