@@ -26,4 +26,8 @@ class StudentClass {
     workOnHomework() {
         return 'Currently working';
     }
+
+    displayName() {
+        return this.firstName;
+    }
 }
