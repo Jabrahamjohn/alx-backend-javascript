@@ -45,3 +45,7 @@ export function createEmployee(salary: number | string) {
         return new Director();
     }
 }
+
+export function isDirector(employee: DirectorInterface | TeacherInterface): employee is Director {
+    return (employee as Director).workDirectorTasks !== undefined;
+}
