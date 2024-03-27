@@ -10,3 +10,16 @@ export interface TeacherInterface {
     workTeacherTasks(): string;
 }
 
+class Director implements DirectorInterface {
+    workFromHome() {
+        return 'Working from home';
+    }
+
+    getCoffeeBreak() {
+        return 'Getting a coffee break';
+    }
+
+    workDirectorTasks() {
+        return 'Getting to director tasks';
+    }
+}
