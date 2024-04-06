@@ -1,6 +1,6 @@
 # 0x00.ES6 Basics
 
-#### Javascript ES6
+## Javascript ES6
 
 <div class="panel panel-default">
 
@@ -25,7 +25,7 @@
 
 ## Resources
 
-<p><strong>Read or watch</strong>:</p>
+## Read or watch
 
 <ul>
 <li><a href="/rltoken/NW1dFLFExQ12_hD8yvkV3A" title="ECMAScript 6 - ECMAScript 2015" target="_blank">ECMAScript 6 - ECMAScript 2015</a></li>
