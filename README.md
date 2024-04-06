@@ -25,7 +25,9 @@ Please refer to the individual files in this directory for more information on s
 
 ## 0x02-ES6_classes
 
-This directory contains files and explanations on ES6 classesES6 classes are a new way to create objects and deal with inheritance in JavaScript.<br> The code in this directory demonstrates the usage of ES6 classes and provides examples and explanations on how to work with them.
+This directory contains files and explanations on ES6 classes
+
+ES6 classes are a new way to create objects and deal with inheritance in JavaScript.<br> The code in this directory demonstrates the usage of ES6 classes and provides examples and explanations on how to work with them.
 
 Please refer to the individual files in this directory for more information on specific topics related to [ES6-classes](./0x02-ES6_classes/).
 
