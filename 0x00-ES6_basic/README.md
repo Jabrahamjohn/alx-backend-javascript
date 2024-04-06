@@ -22,7 +22,8 @@
   </div>
 
 <img src="https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2019/12/08806026ef621f900121.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20240310%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20240310T101524Z&amp;X-Amz-Expires=86400&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=8325971189f469a05917805108cffc9e1a74333450f584fe32e69314af06f71f" alt="" loading="lazy" style="">
-<h2>Resources</h2>
+
+## Resources
 
 <p><strong>Read or watch</strong>:</p>
 
@@ -187,4 +188,3 @@ module.exports = {
 <h3>Finally…</h3>
 
 <p>Don’t forget to run <code>npm install</code> from the terminal of your project folder to install all necessary project dependencies.</p>
-
