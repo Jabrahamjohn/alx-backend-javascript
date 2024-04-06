@@ -2,7 +2,8 @@
 
 ## Description
 
-This project focuses on backend development and structures <br> by javascript and it's functions
+This project focuses on backend development and structures
+by javascript and it's functions
 
 ## Table of Contents
 
