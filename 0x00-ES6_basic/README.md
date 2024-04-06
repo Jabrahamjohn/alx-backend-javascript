@@ -1,6 +1,7 @@
 # 0x00.ES6 Basics
 
 #### Javascript ES6
+
 <div class="panel panel-default">
     <div class="panel-heading">
       <h2 class="panel-title">Concepts</h2>
