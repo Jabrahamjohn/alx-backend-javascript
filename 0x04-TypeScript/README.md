@@ -10,6 +10,7 @@ You can install TypeScript globally on your system by running the following comm
 npm install -g typescript
 ```
 ## example
+
 ``` example
 function greeter(person: string) {
     return "Hello, " + person;
