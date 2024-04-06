@@ -49,7 +49,6 @@ This directory contains files and explanations on TypeScript, a superset of Java
 
 TypeScript provides additional features and benefits such as type checking, interfaces, and modules.
 
-
 The code in this directory demonstrates the usage of TypeScript and provides examples and explanations on how to work with it.
 
 Please refer to the individual files in this directory for more information on specific topics related to [TypeScript](./0x04-Typescript/).
