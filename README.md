@@ -47,7 +47,7 @@ Please refer to the individual files in this directory for more information on s
 
 This directory contains files and explanations on basic Node.js concepts and functionalities.
 
-Node.js is a JavaScript runtime environment that allows you to run JavaScript code on the server-side. <br>
+Node.js is a JavaScript runtime environment that allows you to run JavaScript code on the server-side.
 The code in this directory demonstrates the usage of basic Node.js features and provides examples and explanations on how to work with them.
 
 Please refer to the individual files in this directory for more information on specific topics related to [Node.js basics](./0x05-Node_JS_basic/).
