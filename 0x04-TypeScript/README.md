@@ -9,6 +9,7 @@ You can install TypeScript globally on your system by running the following comm
 ```bash
 npm install -g typescript
 ```
+
 ## example
 
 ``` example
