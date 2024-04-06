@@ -36,7 +36,7 @@ Please refer to the individual files in this directory for more information on s
 
 ## 0x04-Typescript
 
-This directory contains files and explanations on TypeScript, a superset of JavaScript that adds static typing to the language. <br>
+This directory contains files and explanations on TypeScript, a superset of JavaScript that adds static typing to the language.
 TypeScript provides additional features and benefits such as type checking, interfaces, and modules. <br>
 The code in this directory demonstrates the usage of TypeScript and provides examples and explanations on how to work with it.
 
