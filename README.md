@@ -45,7 +45,7 @@ Please refer to the individual files in this directory for more information on s
 
 ## 0x05-Node_JS_basic
 
-This directory contains files and explanations on basic Node.js concepts and functionalities. <br>
+This directory contains files and explanations on basic Node.js concepts and functionalities.
 Node.js is a JavaScript runtime environment that allows you to run JavaScript code on the server-side. <br>
 The code in this directory demonstrates the usage of basic Node.js features and provides examples and explanations on how to work with them.
 
