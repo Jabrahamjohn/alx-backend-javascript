@@ -18,6 +18,7 @@ by javascript and it's functions
 This directory contains files and explanations on ES6 promises.
 
 ES6 promises are a way to handle asynchronous operations in JavaScript.
+
 The code in this directory demonstrates the usage of ES6 promises and provides examples and explanations on how to work with them.
 
 Please refer to the individual files in this directory for more information on specific topics related to [ES6-promises](./0x01-ES6_promise/).
