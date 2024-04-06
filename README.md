@@ -1,6 +1,6 @@
 # alx backend javascript
 
-## Descriptionthi
+## Description
 
 This project focuses on backend development and structures <br> by javascript and it's functions
 
