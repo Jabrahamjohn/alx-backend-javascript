@@ -6,9 +6,9 @@ This project focuses on backend development and structures <br> by javascript an
 
 ## Table of Contents
 
-- [ES6-PROMISES](#0x01-ES6_promise)
-- [ES6-CLASSES](#0x02-ES6_classes)
-- [DATA MANIPULATION](#0x03-ES6_data_manipulation)
+- [ES6-PROMISES](#0x01-es6_promise)
+- [ES6-CLASSES](#0x02-es6_classes)
+- [DATA MANIPULATION](#0x03-es6_data_manipulation)
 - [Node_JS_Basic](#0x05-node_js_basic)
 - [TYPESCRIPT](#0x04-typescript)
 
