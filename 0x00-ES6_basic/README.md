@@ -1,4 +1,5 @@
 # 0x00.ES6 Basics
+
 #### Javascript ES6
 <div class="panel panel-default">
     <div class="panel-heading">
