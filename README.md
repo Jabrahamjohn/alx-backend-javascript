@@ -31,6 +31,7 @@ Please refer to the individual files in this directory for more information on s
 This directory contains files and explanations on ES6 data manipulation.
 
 ES6 data manipulation refers to the various techniques and methods available in JavaScript to manipulate and transform data.
+
 The code in this directory demonstrates the usage of ES6 data manipulation techniques and provides examples and explanations on how to work with them.
 
 Please refer to the individual files in this directory for more information on specific topics related to [ES6-data-manipulation](./0x03-ES6_data_manipulation/).
