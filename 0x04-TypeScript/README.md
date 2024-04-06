@@ -20,4 +20,5 @@ function greeter(person: string) {
 let user = "Jane User";
 console.log(greeter(user));
 ```
+
 - This example defines a function greeter that takes a person parameter of type string. It then calls this function with the user variable, which is also of type string.
