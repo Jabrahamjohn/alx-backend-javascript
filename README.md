@@ -66,3 +66,4 @@ Please refer to the individual files in this directory for more information on s
 
 ## 0x06-unittests_in_js
 
+this project show cases unit testing in javascript
