@@ -12,5 +12,5 @@ Read or watch:
 - ![Chai](https://www.chaijs.com/api/)
 - ![Sinon](https://sinonjs.org/releases/)
 - ![Express](https://expressjs.com/en/guide/routing.html)
-- ![Request]()
+- ![Request](https://www.npmjs.com/package/request)
 - ![How to Test Node JS App using Mocha, Chai and SinonJS]()
