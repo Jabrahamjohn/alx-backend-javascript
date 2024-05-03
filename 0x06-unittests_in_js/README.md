@@ -9,8 +9,8 @@ UniTests Backend JavaScript Es6 NodeJs ExpressJs Mocha
 Read or watch:
 
 - ![Mocha documentation](https://mochajs.org/)
-- ![Chai]()
-- ![Sinon]()
-- ![Express]()
+- ![Chai](https://www.chaijs.com/api/)
+- ![Sinon](https://sinonjs.org/releases/)
+- ![Express](https://expressjs.com/en/guide/routing.html)
 - ![Request]()
 - ![How to Test Node JS App using Mocha, Chai and SinonJS]()
