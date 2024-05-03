@@ -68,4 +68,4 @@ Please refer to the individual files in this directory for more information on s
 
 this project show cases unit testing in javascript
 
-Refer to the project below for a detailed view []
+Refer to the project below for a detailed view [Unittests in js](./0x06-unittests_in_js/)
