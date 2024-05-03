@@ -12,6 +12,7 @@ by javascript and it's functions
 - [DATA MANIPULATION](#0x03-es6_data_manipulation)
 - [Node_JS_Basic](#0x05-node_js_basic)
 - [TYPESCRIPT](#0x04-typescript)
+- [UNITTESTS IN JS](#0x06-unittests_in_js)
 
 ## 0x01-ES6_promise
 
@@ -62,3 +63,6 @@ Node.js is a JavaScript runtime environment that allows you to run JavaScript co
 The code in this directory demonstrates the usage of basic Node.js features and provides examples and explanations on how to work with them.
 
 Please refer to the individual files in this directory for more information on specific topics related to [Node.js basics](./0x05-Node_JS_basic/).
+
+## 0x06-unittests_in_js
+
